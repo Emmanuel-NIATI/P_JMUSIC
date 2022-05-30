@@ -42,6 +42,7 @@ import jm.constants.Waveforms;
  * @author Andrew Sorensen with lots of help from Andrew Brown and Andrew Troedson
  * Latest Update by Tim Opie
  */
+// main
 public interface JMC extends RhythmValues, Pitches, Frequencies, Tunings,
                              Dynamics, Panning, ProgramChanges, DrumMap, Scales,
                              Waveforms, Noises, Alignments {
