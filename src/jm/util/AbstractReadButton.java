@@ -52,7 +52,6 @@ import jm.util.Read;
  * @author Adam Kirby
  * @version 1.0,Sun Feb 25 18:43:56  2001
  */
-//
 public abstract class AbstractReadButton extends Button {
     /**
      * The owner whose control is to be suspended when an error dialog or
